@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+
+# The active config file copied from config-dist.php
+soldersab.ini
+build/
+cache/
+servers/
